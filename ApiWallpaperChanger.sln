@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWallpaperChanger", "ApiWallpaperChanger\ApiWallpaperChanger.csproj", "{5F1D6CDA-A9BD-496E-8EBC-6816E23B926E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1D6CDA-A9BD-496E-8EBC-6816E23B926E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1D6CDA-A9BD-496E-8EBC-6816E23B926E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1D6CDA-A9BD-496E-8EBC-6816E23B926E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1D6CDA-A9BD-496E-8EBC-6816E23B926E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9E6168B-3216-4B99-8E6A-C398DA69587F}
+	EndGlobalSection
+EndGlobal
