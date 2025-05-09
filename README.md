@@ -2,6 +2,10 @@ API Wallpaper Changer
 
 Simple C# console program that fetches wallpapers from any specified API and sets it as your Windows desktop wallpaper at specified intervals. It resizes images to your display resolution and ignores portrait-sized images by default. Ideal for automating wallpaper updating from dynamic sources like Unsplash, Pexels, or even your personal APIs.
 
+
+
+
+
 Features
 
 Automatically fetches and sets wallpaper from any configurable API.
@@ -11,6 +15,13 @@ Scales images to match your screen resolution.
 Skips portrait images for a good desktop fit.
 
 Runs continuously in a loop, refreshing every 30 seconds (configurable).
+
+
+
+
+
+
+
 
 Prerequisites
 
@@ -22,6 +33,12 @@ Visual Studio 2022 (ideal) or Visual Studio Code.
 
 Internet connection.
 
+
+
+
+
+
+
 Installation
 
 Clone this repository:
@@ -30,6 +47,14 @@ cd ApiWallpaperChanger
 
 Install required NuGet packages:
 dotnet add package Newtonsoft.Json
+
+
+
+
+
+
+
+
 
 Configuration
 
@@ -46,6 +71,12 @@ Build the project (Ctrl+Shift+B) to make sure everything is set up correctly.
 Run the project (F5) or build and run using the command:
 
 dotnet run
+
+
+
+
+
+
 
 Customization
 
