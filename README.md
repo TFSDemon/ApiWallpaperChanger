@@ -42,7 +42,7 @@ Internet connection.
 Installation
 
 Clone this repository:
-git clone https://github.com/yourusername/ApiWallpaperChanger.git
+git clone https://github.com/TFSDemon/ApiWallpaperChanger.git
 cd ApiWallpaperChanger
 
 Install required NuGet packages:
